@@ -1,0 +1,25 @@
+body {
+    background: black;
+}
+
+h1 {
+    column-rule-color: aliceblue;
+}
+
+h1 {
+    margin-top: 20ch;
+    color: rgb(123, 45, 45);
+    text-align: center;
+}
+
+p {
+    margin-top: 0;
+    font-family: 'Rubik Maze', cursive;
+    font-size: 180%;
+    text-align: center;
+    color: blanchedalmond;
+}
+
+:hover h1 {
+    color: #0066cc
+}
